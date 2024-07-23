@@ -27,7 +27,7 @@ body{
    border: 3px solid black;
    display: flex;
    flex-direction: column;
-   background-image:  url('dial.jpg');
+   background-image:  url('static/dial.jpg');
    background-size: cover;
    align-items: center;
    justify-content: space-between;
@@ -67,7 +67,7 @@ body{
 .start-btn {
    background-color: black;
    border: 2px solid white;
-   background-image: url('playnog.jpg');
+   background-image: url('static/playnog.jpg');
    background-size: cover;
 }
 
@@ -79,7 +79,7 @@ body{
    height: 60px;
    width: 60px;
    border: 2px solid white;
-   background-image: url('reset.png');
+   background-image: url('static/reset.png');
    background-size: cover;
 }
 
@@ -91,7 +91,7 @@ body{
    height: 60px;
    width: 60px;
    border: 2px solid white;
-   background-image: url('flag.png');
+   background-image: url('static/flag.png');
    background-size: cover;
 }
 
